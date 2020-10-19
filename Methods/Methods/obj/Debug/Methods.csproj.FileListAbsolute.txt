@@ -1,0 +1,6 @@
+E:\P117\Methods\Methods\bin\Debug\Methods.exe.config
+E:\P117\Methods\Methods\bin\Debug\Methods.exe
+E:\P117\Methods\Methods\bin\Debug\Methods.pdb
+E:\P117\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+E:\P117\Methods\Methods\obj\Debug\Methods.exe
+E:\P117\Methods\Methods\obj\Debug\Methods.pdb
